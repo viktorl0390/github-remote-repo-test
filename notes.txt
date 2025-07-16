@@ -2,4 +2,3 @@ git init //for initializing repositoryS
 git add  <file>
 git commit -m "your massage"
 git reset --soft HEAD~1
-git reset --hartr HEAD~1
